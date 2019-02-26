@@ -1,4 +1,4 @@
-# CS-305-NERDS
+# CS-305-NERDS (New Exploration and Research in Data Systems)
 
 ## Team Members  
 Cris Fitzgerald  
